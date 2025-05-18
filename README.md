@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi there 👋 I'm Obeth
 
-<!--
-**obeth2k2/obeth2k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m an HND IT student currently learning front-end web development.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **HTML**, **CSS**, and **JavaScript**
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/obeth2k2)  
+- 🧠 Passionate about tech, coding, and building cool stuff (soon!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Every expert was once a beginner” – Let’s grow together 🚀
+
+---
+
+### 🧰 Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+![Obeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=obeth2k2&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=obeth2k2&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obeth2k2&layout=compact&theme=radical)
+
+---
+
+### ⚡ Fun GIF
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+---
+
+Thanks for visiting my profile! 😊 Feel free to drop a ⭐ on any repo you like!
